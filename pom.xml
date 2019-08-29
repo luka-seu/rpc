@@ -11,6 +11,7 @@
     <modules>
         <module>RPC-Server</module>
         <module>Register-Center</module>
+        <module>RPC-Client</module>
     </modules>
 
 

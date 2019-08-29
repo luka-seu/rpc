@@ -11,4 +11,9 @@ public class HelloServerImpl implements HelloServer{
     public void helloRpc() {
         System.out.println("Hello RPC!");
     }
+
+    @Override
+    public void hello() {
+        System.out.println("Hello World");
+    }
 }
